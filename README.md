@@ -1,5 +1,5 @@
 # 💫 ONLINE TICKET BOOKING -WANDER GRID TRAVEL ADVENTURE:
-<br><br>Wander Grid Travel Adventure is an online trip booking platform developed using the MERN stack. It allows users to search for available trips, view package details, and book slots based on real-time availability. The admin can manage trip information, including destinations, prices, schedules, and staff details, while also monitoring user bookings. The system aims to simplify travel planning and provide a seamless, efficient, and user-friendly booking experience.
+<br><br>Wander Grid Travel Adventure is an online trip booking platform developed using the MERN stack. It allows users to search for available trips, view package details, and book slots based on real-time availability. The admin can manage trip information, including destinations, prices, schedules, and contact, while also monitoring user bookings. The system aims to simplify travel planning and provide a seamless, efficient, and user-friendly booking experience.
 
 
 # 💻 Tech Stack:
